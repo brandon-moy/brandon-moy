@@ -10,7 +10,7 @@ I am a Software Developer who enjoys tinkering with code to figure out how it wo
 <img src="https://user-images.githubusercontent.com/109567499/204354608-a8931f99-cd55-4bff-bd1b-254dfda3f390.gif" align="right" width="350" style="max-width: 100%;" />
 
 - 🔭 I’m currently working on adding stretch features to <a href="https://github.com/brandon-moy/study-buddy">StudyBuddy</a>.
-- 🌱 I’m currently learning <b>Python</b> and improving my knowledge of <b>SQL</b>
+- 🌱 I’m currently learning about <b>NextJS</b> and using<b>Tailwind</b>
 - 📚 I'm current reading <b>SQL Antipatterns: Avoiding the Pitfalls of Database Programming</b>
 - ⚡ Fun fact: I'm a big fan of MMORPGs and anime!
 - 📫 How to reach me: <a href="mailto:brandon@brandonmoy.com">brandon@brandonmoy.com</a>
