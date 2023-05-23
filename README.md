@@ -9,8 +9,8 @@ I am a Software Developer who enjoys tinkering with code to figure out how it wo
 
 <img src="https://user-images.githubusercontent.com/109567499/204354608-a8931f99-cd55-4bff-bd1b-254dfda3f390.gif" align="right" width="350" style="max-width: 100%;" />
 
-- 🔭 I’m currently working on adding stretch features to <a href="https://github.com/brandon-moy/study-buddy">StudyBuddy</a>.
-- 🌱 I’m currently learning about <b>NextJS</b> and using<b>Tailwind</b>
+- 🔭 I’m currently working on adding integration and end-to-end tests to <a href="https://github.com/brandon-moy/study-buddy">StudyBuddy</a>.
+- 🌱 I’m currently learning about <b>NextJS</b>, <b>TailwindCSS</b>, and testing with <b>Mocha</b>, <b>Chai</b>, <b>Jest</b>, <b>React Testing Library</b>, and <b>Cypress</b>
 - 📚 I'm current reading <b>SQL Antipatterns: Avoiding the Pitfalls of Database Programming</b>
 - ⚡ Fun fact: I'm a big fan of MMORPGs and anime!
 - 📫 How to reach me: <a href="mailto:brandon@brandonmoy.com">brandon@brandonmoy.com</a>
@@ -21,13 +21,16 @@ I am a Software Developer who enjoys tinkering with code to figure out how it wo
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-moy&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :books: Stack
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194736004-a8430d19-7685-440b-bb59-58412591cb39.svg"><img src="https://user-images.githubusercontent.com/49361894/194736004-a8430d19-7685-440b-bb59-58412591cb39.svg" alt="html5" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194736008-f444cf88-9615-411a-b5c6-a86798b43180.svg"><img src="https://user-images.githubusercontent.com/49361894/194736008-f444cf88-9615-411a-b5c6-a86798b43180.svg" alt="css" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194735990-a92a1544-6f6b-4ebf-9eb1-3148a1b69a7b.svg"><img src="https://user-images.githubusercontent.com/49361894/194735990-a92a1544-6f6b-4ebf-9eb1-3148a1b69a7b.svg" alt="js" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194735984-0088c501-2ea1-447b-922d-1947c60af3f2.svg"><img src="https://user-images.githubusercontent.com/49361894/194735984-0088c501-2ea1-447b-922d-1947c60af3f2.svg" alt="react" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194735997-ca439a7b-de9b-44fb-98df-de0e348c982d.svg"><img src="https://user-images.githubusercontent.com/49361894/194735997-ca439a7b-de9b-44fb-98df-de0e348c982d.svg" alt="node" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194735999-9b43342d-522b-41a9-823d-318362c82aac.svg"><img src="https://user-images.githubusercontent.com/49361894/194735999-9b43342d-522b-41a9-823d-318362c82aac.svg" alt="express" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/49361894/194736013-02d95228-339d-46a2-8fd0-75cd8d288194.svg"><img src="https://user-images.githubusercontent.com/49361894/194736013-02d95228-339d-46a2-8fd0-75cd8d288194.svg" alt="postgresql" style="max-width: 100%;"></a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-moy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -42,8 +45,14 @@ I am a Software Developer who enjoys tinkering with code to figure out how it wo
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-  
-  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+
+
 <!--
 **brandon-moy/brandon-moy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
