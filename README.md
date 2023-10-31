@@ -9,7 +9,7 @@ I am a Software Developer who enjoys tinkering with code to figure out how it wo
 
 <img src="https://user-images.githubusercontent.com/109567499/204354608-a8931f99-cd55-4bff-bd1b-254dfda3f390.gif" align="right" width="350" style="max-width: 100%;" />
 
-- 🔭 I’m currently working on building new applications! My most current ones are <a href="https://github.com/brandon-moy/react-native-jobs">Jobber</a>, a React Native application to help users find jobs and <a href="https://github.com/brandon-moy/code-journal-dribbble">Code Journal</a>, a web application for developers to share their projects and learn.
+- 🔭 I’m currently working on building new applications! My most current ones are <a href="https://github.com/brandon-moy/buzzy-bees-store">BuzzyBees</a>, an eCommerce site based on my <a href="https://github.com/brandon-moy/ecommerce-store">ecommerce-store</a> and <a href="https://github.com/brandon-moy/ecommerce-admin">ecommerce-admin</a> repositories, <a href="https://github.com/brandon-moy/react-native-jobs">Jobber</a>, a React Native application to help users find jobs and <a href="https://github.com/brandon-moy/code-journal-dribbble">Code Journal</a>, a web application for developers to share their projects and learn.
 - 🌱 I’m currently learning about <b>NextJS</b>, <b>TailwindCSS</b>, <b>React Native</b> and testing with <b>Mocha</b>, <b>Chai</b>, <b>Jest</b>, <b>React Testing Library</b>, and <b>Cypress</b>
 - ⚡ Fun fact: I'm a big fan of MMORPGs and anime!
 - 📫 How to reach me: <a href="mailto:brandon@brandonmoy.com">brandon@brandonmoy.com</a>
