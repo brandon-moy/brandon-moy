@@ -9,8 +9,8 @@ I am a Software Developer who enjoys tinkering with code to figure out how it wo
 
 <img src="https://user-images.githubusercontent.com/109567499/204354608-a8931f99-cd55-4bff-bd1b-254dfda3f390.gif" align="right" width="350" style="max-width: 100%;" />
 
-- 🔭 I’m currently working on building new applications! My most current ones are <a href="https://github.com/brandon-moy/buzzy-bees-store">BuzzyBees</a>, an eCommerce site based on my <a href="https://github.com/brandon-moy/ecommerce-store">ecommerce-store</a> and <a href="https://github.com/brandon-moy/ecommerce-admin">ecommerce-admin</a> repositories, <a href="https://github.com/brandon-moy/react-native-jobs">Jobber</a>, a React Native application to help users find jobs and <a href="https://github.com/brandon-moy/code-journal-dribbble">Code Journal</a>, a web application for developers to share their projects and learn.
-- 🌱 I’m currently learning about <b>NextJS</b>, <b>TailwindCSS</b>, <b>React Native</b> and testing with <b>Mocha</b>, <b>Chai</b>, <b>Jest</b>, <b>React Testing Library</b>, and <b>Cypress</b>
+- 🌱 I’m currently learning <b>Python</b> while still building applications with <b>React</b> and <b>TailwindCSS</b>
+- 🔭 Some of my most recent projects ones are <a href="https://github.com/brandon-moy/buzzy-bees-store">BuzzyBees</a>, an eCommerce site based on my <a href="https://github.com/brandon-moy/ecommerce-store">ecommerce-store</a> and <a href="https://github.com/brandon-moy/ecommerce-admin">ecommerce-admin</a> repositories, <a href="https://github.com/brandon-moy/react-native-jobs">Jobber</a>, a React Native application to help users find jobs and <a href="https://github.com/brandon-moy/code-journal-dribbble">Code Journal</a>, a web application for developers to share their projects and learn.
 - ⚡ Fun fact: I'm a big fan of MMORPGs and anime!
 - 📫 How to reach me: <a href="mailto:brandon@brandonmoy.com">brandon@brandonmoy.com</a>
 
@@ -20,16 +20,18 @@ I am a Software Developer who enjoys tinkering with code to figure out how it wo
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-moy&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :books: Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-moy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
