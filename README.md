@@ -9,7 +9,7 @@ I am a Software Developer who enjoys tinkering with code to figure out how it wo
 
 <img src="https://user-images.githubusercontent.com/109567499/204354608-a8931f99-cd55-4bff-bd1b-254dfda3f390.gif" align="right" width="350" style="max-width: 100%;" />
 
-- 🌱 I’m currently learning <b>Python</b> while still building applications with <b>React</b> and <b>TailwindCSS</b>
+- 🌱 I’m currently learning <b>Swift</b> while still building applications with <b>React</b> and <b>TailwindCSS</b>
 - 🔭 Some of my most recent projects ones are <a href="https://github.com/brandon-moy/buzzy-bees-store">BuzzyBees</a>, an eCommerce site based on my <a href="https://github.com/brandon-moy/ecommerce-store">ecommerce-store</a> and <a href="https://github.com/brandon-moy/ecommerce-admin">ecommerce-admin</a> repositories, <a href="https://github.com/brandon-moy/react-native-jobs">Jobber</a>, a React Native application to help users find jobs and <a href="https://github.com/brandon-moy/code-journal-dribbble">Code Journal</a>, a web application for developers to share their projects and learn.
 - ⚡ Fun fact: I'm a big fan of MMORPGs and anime!
 - 📫 How to reach me: <a href="mailto:brandon@brandonmoy.com">brandon@brandonmoy.com</a>
