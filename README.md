@@ -2,15 +2,15 @@
 Hello World! :earth_americas:
 </h1>
 <h3 align="center">
-I'm Brandon, a Software Developer in Irvine, CA!
+I'm Brandon, a Software Developer in Foothill Ranch, CA!
 </h3>
 
 I am a Software Developer who enjoys tinkering with code to figure out how it works and how to make it work. I especially love playing with CSS3 and creating three-dimensional objects and animations! When I'm not coding I like to cook and spend time with my two cats (sometimes my cats spend time with me while I code).
 
 <img src="https://user-images.githubusercontent.com/109567499/204354608-a8931f99-cd55-4bff-bd1b-254dfda3f390.gif" align="right" width="350" style="max-width: 100%;" />
 
-- 🌱 I’m currently learning <b>Swift</b> while still building applications with <b>React</b> and <b>TailwindCSS</b>
-- 🔭 Some of my most recent projects ones are <a href="https://github.com/brandon-moy/buzzy-bees-store">BuzzyBees</a>, an eCommerce site based on my <a href="https://github.com/brandon-moy/ecommerce-store">ecommerce-store</a> and <a href="https://github.com/brandon-moy/ecommerce-admin">ecommerce-admin</a> repositories, <a href="https://github.com/brandon-moy/react-native-jobs">Jobber</a>, a React Native application to help users find jobs and <a href="https://github.com/brandon-moy/code-journal-dribbble">Code Journal</a>, a web application for developers to share their projects and learn.
+- 🌱 I’m currently working on the wireframe design and issue/tasklist for an improved version of my <a href="https://github.com/brandon-moy/study-buddy">Study Buddy</a> flashcard application.
+- 🔭 Some of my most recent projects are <a href="https://github.com/brandon-moy/buzzy-bees-store">BuzzyBees</a>, an eCommerce site based on my <a href="https://github.com/brandon-moy/ecommerce-store">ecommerce-store</a> and <a href="https://github.com/brandon-moy/ecommerce-admin">ecommerce-admin</a> repositories, and <a href="https://github.com/brandon-moy/react-native-jobs">Jobber</a>, a React Native application to help users find jobs.
 - ⚡ Fun fact: I'm a big fan of MMORPGs and anime!
 - 📫 How to reach me: <a href="mailto:brandon@brandonmoy.com">brandon@brandonmoy.com</a>
 
