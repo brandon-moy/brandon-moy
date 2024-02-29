@@ -12,7 +12,8 @@ I am a Software Developer who enjoys tinkering with code to figure out how it wo
 - 🌱 I’m currently working on the wireframe design and issue/tasklist for an improved version of my <a href="https://github.com/brandon-moy/study-buddy">Study Buddy</a> flashcard application.
 - 🔭 Some of my most recent projects are <a href="https://github.com/brandon-moy/buzzy-bees-store">BuzzyBees</a>, an eCommerce site based on my <a href="https://github.com/brandon-moy/ecommerce-store">ecommerce-store</a> and <a href="https://github.com/brandon-moy/ecommerce-admin">ecommerce-admin</a> repositories, and <a href="https://github.com/brandon-moy/react-native-jobs">Jobber</a>, a React Native application to help users find jobs.
 - ⚡ Fun fact: I'm a big fan of MMORPGs and anime!
-- 📫 How to reach me: <a href="mailto:brandon@brandonmoy.com">brandon@brandonmoy.com</a>
+- 📚 I'm currently reading <b>Eloquent JavaScript</b> by <i>Marijn Haverbeke</i>
+- 📫 How to reach me: <a href="mailto:brandonkaghen@gmail.com">brandon@brandonmoy.com</a>
 
 ### Let's connect!
 <a href="https://www.linkedin.com/in/brandon-k-moy/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
