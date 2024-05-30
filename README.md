@@ -9,8 +9,7 @@ I am a Software Developer who enjoys tinkering with code to figure out how it wo
 
 <img src="https://user-images.githubusercontent.com/109567499/204354608-a8931f99-cd55-4bff-bd1b-254dfda3f390.gif" align="right" width="350" style="max-width: 100%;" />
 
-- 🌱 I’m currently working on <a href="https://github.com/brandon-moy/study-buddy-2">Study Buddy 2</a> (name pending), an improved version of my first full-stack flashcard application, <a href="https://github.com/brandon-moy/study-buddy">Study Buddy</a>.
-- 🔭 Some of my most recent projects are <a href="https://github.com/brandon-moy/buzzy-bees-store">BuzzyBees</a>, an eCommerce site based on my <a href="https://github.com/brandon-moy/ecommerce-store">ecommerce-store</a> and <a href="https://github.com/brandon-moy/ecommerce-admin">ecommerce-admin</a> repositories, and <a href="https://github.com/brandon-moy/react-native-jobs">Jobber</a>, a React Native application to help users find jobs.
+- 🌱 I’m currently working on some freelance opportunities (Coming Soon™)!
 - 📚 I'm currently reading <b>Eloquent JavaScript</b> by <i>Marijn Haverbeke</i>
 - 📫 How to reach me: <a href="mailto:brandonkaghen@gmail.com">brandonkaghen@gmail.com</a>
 - ⚡ Fun fact: I like bees.
